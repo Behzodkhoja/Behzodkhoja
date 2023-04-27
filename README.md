@@ -1,4 +1,4 @@
-Saidnabi, [4/12/2023 6:23 PM]
+
 <h3 align="center">
     Welcome to Behzodkhoja's profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
