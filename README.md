@@ -7,7 +7,7 @@
 <p align="center">
     <a href="https://github.com/Behzodkhoja/readme-typing-svg">
         <img
-                src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Engineer%20Developer;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
+                src="https://readme-typing-svg.herokuapp.com/?lines=.NET%20Engineer%20Developer;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
 </p>
 
 ## 👨🏻‍💻 About Me:
@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-- 🌍 I'm dotNet developer from Uzbekistan 🇺🇿
+- 🌍 I'm .NET developer from Uzbekistan 🇺🇿
 - 🔭 I'm currently working on My project
 - 🌱 I'm currently learning frontend 
 - 👯 I'm looking to collaborate on .NET project
@@ -35,8 +35,8 @@
     
 ## 📊 Github Stats ⚡️
 
-![](https://github-readme-stats.vercel.app/api?username=Rustamxon&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=Rustamxon&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rustamxon&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Behzodkhoja&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=Behzodkhoja&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Behzodkhoja&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 ## 🛠 My favorite tools
@@ -82,11 +82,11 @@
 
 ## 🙋‍♂️ Connect with me
 
-Saidnabi, [4/12/2023 6:23 PM]
+T.me/Behzodkhoja
 
 
 <p>
-    <a href="https://github.com/Rustamxon">
+    <a href="https://github.com/Behzodkhoja">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/rustamxon-rahimov-a78899245/">
